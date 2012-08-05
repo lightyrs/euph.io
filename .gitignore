@@ -14,3 +14,4 @@ capybara-*.html
 **.orig
 rerun.txt
 pickle-email-*.htmlnode_modules
+node_modules
